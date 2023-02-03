@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// This file is made by EmJey
+// Project: UserInput
+// FileName: UserInput
+// Date: 2023/02/01
+// Email: emjeydev@gmail.com
+// Github: emjeydev
+
 namespace TestApp1
 {
     internal class Program
